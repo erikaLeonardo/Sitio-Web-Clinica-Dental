@@ -1,0 +1,69 @@
+.btn-pcolor{
+    background-color: #59C1BD !important;
+}
+
+.colorbo{
+    background-color: #59C1BD !important;
+}
+
+.colorazul{
+    color: rgb(8, 8, 87) !important;
+}
+
+.color{
+    color: #59C1BD !important;
+    text-decoration: none !important;
+}
+/* .micolor{
+    color: #59C1BD !important;
+}
+
+.colora{
+    color: rgba(127, 255, 246, 0.715) !important;
+    text-decoration: none !important;
+} */
+
+.fondoinput{
+    background-color: rgba(223, 217, 217, 0.963) !important;
+}
+
+.fondo{
+    background-color: hsla(180, 7%, 89%, 0.952);
+}
+
+.gris{
+    background-color: grey !important;
+}
+
+.formulario{
+    margin-top: 30px !important;
+    margin-left: 100px !important;
+}
+
+.bodyTitle{
+    font-family: 'Rubik', sans-serif;
+    font-weight: bolder;
+    color: #001a57;
+}
+
+.body{
+    font-family: 'Rubik', sans-serif;
+}
+
+.fondoI{
+    background-image: url(/img/mifondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.body2{
+    font-family: 'Rubik', sans-serif;
+    font-size: 20;
+}
+
+.borde1{
+    border: 2px solid rgb(15, 15, 15)
+}
+
+
